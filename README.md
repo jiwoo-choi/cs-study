@@ -1,8 +1,9 @@
 # Contributors
 - [annamon](https://github.com/annamon)
-- [ritajeong](https://github.com/ritajeong)
 - [choieunsong](https://github.com/choieunsong)
 - [jiwoo-choi](https://github.com/jiwoo-choi)
+- [kmjn111](https://github.com/kmjn111)
+- [ritajeong](https://github.com/ritajeong)
 
 # Contents
 | Weeks | 주제  | 타임라인 |
