@@ -1,5 +1,6 @@
 # Contributors
-- [jiwoo-choi](https://github.com/jiwoo-choi)
+- [choieunsong(최은송)](https://github.com/choieunsong)
+- [jiwoo-choi(최지우)](https://github.com/jiwoo-choi)
 
 # Contents
 | Weeks | 주제  | 타임라인 |
