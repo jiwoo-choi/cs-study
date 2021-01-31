@@ -1,4 +1,5 @@
 # Contributors
+- [ritajeong(정진주)](https://github.com/ritajeong)
 - [choieunsong(최은송)](https://github.com/choieunsong)
 - [jiwoo-choi(최지우)](https://github.com/jiwoo-choi)
 
